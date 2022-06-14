@@ -1,0 +1,99 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.adjust{
+	margin-top: 50px;
+}
+/*Navigation*/
+#control{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+#navbar{
+
+	border-radius: 0px;
+
+}
+
+#logo{
+	border-radius: 30%;
+	border: 0.10px solid black;
+}
+
+#nav-brand{
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	margin-left: 3px;
+}
+
+.nav-item{
+	
+	margin-left: 40px;
+}
+
+.nav-link{
+	font-size: 15px;
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+/*Banner*/
+#about_image {
+	border-radius: 25%;
+	border: 2px solid blue;
+
+	
+
+}
+
+
+/*About*/
+#img{
+	height: 335px;
+	width: 240px;
+	border-left: 4px solid black;
+	border-bottom: 4px solid blue;
+	border-right: 4px solid black;
+	border-top: 4px solid blue;	
+}
+
+#button{
+	border-radius: 20px;
+	color: white;
+	background-color: orange;
+}
+
+
+/*Skills*/
+#skills{
+	border: 2px solid black;
+	
+}
+
+
+/*Projects*/
+#projects_body {
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	justify-content: center;
+}
+
+
+/*Contact*/
+#contact{
+	border: 2px solid orange;
+
+}
+
+
+/*Footer*/
+#footer {
+	padding: 30px;
+	text-align: center;
+}
